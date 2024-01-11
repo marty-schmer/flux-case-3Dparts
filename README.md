@@ -1,1 +1,2 @@
 Files are used for 3-D printed parts used in an automated flux case to measure soil greenhouse gas fluxes. The automated flux case assembly and materials are found on protocols.io.
+Publication in Protocols.io is titled "Materials and assembly for a portable soil greenhouse gas flux collection case." There are five 3D parts within this file used in the actuator component of the automated flux case.
